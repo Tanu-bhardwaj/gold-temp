@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+body{
+    background: #ff6e7f;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #bfe9ff, #ff6e7f);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #bfe9ff, #ff6e7f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+body{
+    background-image:url(https://lh3.googleusercontent.com/proxy/j9VQ8n9wRavHRyAljadIfxl39OpWmVKtmoi0nY1owzk7iAaIRPPIrK-e8EFOAIJiEDjTLPO5dWpKRbHE--raUsBhN-EK9L39XiBWOpPEqCBfej1NREtg5EDSvVC1OUTejcZtcS-KBHqC7FjnEl-4jJmHG5rYNA);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.text-success{
+    text-align: center;
+}
+
+.main-section .card {
+  margin-bottom: 1.5rem !important;
+}
+.footer-section {
+  background: #E8CBC0;
+  background: linear-gradient(to right, #636FA4, #E8CBC0);
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.comment-section span {
+  display: block;
+  margin-bottom: 10px;
+}
+body {
+    font-family: "Poppins", sans-serif;
+  }
+.card-body{
+    background: #d9a7c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+color: midnightblue;
+}
+.text-success{
+    background: #800080;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffc0cb, #800080);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffc0cb, #800080); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
